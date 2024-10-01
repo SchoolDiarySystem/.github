@@ -1,7 +1,18 @@
-SchoolDiarySystem
+# SchoolDiarySystem - Nowoczesny Dziennik Szkolny
+---
 
-SchoolDiarySystem to nowoczesna, intuicyjna aplikacja zaprojektowana, aby usprawnić zarządzanie szkolnymi dziennikami i ułatwić komunikację między nauczycielami, uczniami i rodzicami. Dzięki aplikacji możliwe jest szybkie i łatwe śledzenie postępów w nauce, obecności na zajęciach, ocen oraz bieżących zadań domowych. Użytkownicy mogą również otrzymywać powiadomienia o ważnych wydarzeniach i terminach.
+**SchoolDiarySystem** to nowoczesna i intuicyjna aplikacja, stworzona z myślą o usprawnieniu zarządzania szkolnymi dziennikami oraz ułatwieniu komunikacji między nauczycielami, uczniami i rodzicami. Aplikacja pozwala w łatwy i szybki sposób monitorować postępy w nauce, obecność na zajęciach, oceny oraz bieżące zadania domowe. Użytkownicy mogą również otrzymywać powiadomienia o ważnych wydarzeniach i terminach.
 
-Interfejs aplikacji jest prosty w obsłudze, co sprawia, że zarówno nauczyciele, jak i uczniowie mogą z niej korzystać bez problemów. SchoolDiarySystem jest dostępny na wielu urządzeniach, w tym w wersji webowej, desktopowej i mobilnej, co zapewnia pełną elastyczność i umożliwia dostęp do danych z każdego miejsca, o dowolnej porze. Dzięki funkcji automatycznych raportów i kalendarza, aplikacja pomaga w organizacji codziennych obowiązków i skuteczniejszym zarządzaniu czasem.
+### Intuicyjny interfejs
 
-SchoolDiarySystem to narzędzie, które wspiera efektywną naukę i transparentność w edukacji, niezależnie od platformy, na której działa.
+Aplikacja posiada prosty i intuicyjny interfejs, co sprawia, że zarówno nauczyciele, jak i uczniowie mogą korzystać z niej bez problemów. Obsługa systemu jest łatwa, co ułatwia codzienne korzystanie z funkcji dziennika.
+
+### Dostępność na wielu urządzeniach
+
+**SchoolDiarySystem** jest dostępny na różnych platformach, zapewniając pełną elastyczność użytkowania:
+
+- **Wersja webowa**: Możliwość korzystania z aplikacji przez przeglądarkę internetową z dowolnego urządzenia.
+- **Aplikacja desktopowa**: Dla osób preferujących pracę na komputerze stacjonarnym lub laptopie, z możliwością pracy offline.
+- **Aplikacja mobilna**: Dziennik zawsze pod ręką, dzięki aplikacji mobilnej dostępnej na smartfony i tablety.
+
+Dzięki wszechstronnej dostępności, **SchoolDiarySystem** zapewnia pełny dostęp do danych z każdego miejsca, o dowolnej porze.
